@@ -6,4 +6,5 @@ simple password generator
 
 
 
-![pw2](https://user-images.githubusercontent.com/66684175/218912448-8e8b4ae0-bb77-412e-8996-bfa7071522d8.PNG)
+![pw2](https://user-images.githubusercontent.com/66684175/218912628-b9b19251-2b47-48ea-b30a-abf530c9be83.PNG)
+
